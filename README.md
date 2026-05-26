@@ -1,6 +1,6 @@
-# RescueNet AI+
+# VitalLink AI
 
-RescueNet AI+ is a full-stack starter project with:
+VitalLink AI is a full-stack starter project with:
 - **Frontend:** React + Vite
 - **Backend:** Flask
 
